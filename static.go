@@ -14,9 +14,9 @@ import (
 	"path/filepath"
 	"regexp"
 
-	"github.com/tdewolff/minify"
-	"github.com/tdewolff/minify/css"
-	"github.com/tdewolff/minify/js"
+	"github.com/richardzhang0301/minify"
+	"github.com/richardzhang0301/minify/css"
+	"github.com/richardzhang0301/minify/js"
 )
 
 var StaticAssetsPath string
